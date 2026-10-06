@@ -1,4 +1,4 @@
-# Master of Science in Computer Science Graduate from the University of Auckland
+# Master's in Computer Science Graduate from the University of Auckland
 
 * My technical background is primarily in GPU-accelerated data mining and full-stack engineering
 * Interested in roles within full-stack, backend or data engineering
