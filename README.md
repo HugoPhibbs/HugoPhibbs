@@ -6,7 +6,7 @@
 ## Selected Projects
 
 * [nz-census-map](https://github.com/HugoPhibbs/nz-census-map): Visualising the NZ Census with an interactive map. Built using Python and Next.js
-* [nz-census-map](https://github.com/HugoPhibbs/flask-preserve): Compress and cache Flask responses using just one decorator
+* [flask-preserve](https://github.com/HugoPhibbs/flask-preserve): Compress and cache Flask responses using just one decorator
 * [CuFalconn](https://github.com/HugoPhibbs/CuFalconn): GPU-accelerated nearest neighbour search, using random projection and locality sensitive hashing
 * [CUDA-sDBSCAN](https://github.com/HugoPhibbs/CUDA-sDBSCAN): GPU-accelerated density based clustering using random projections
 * [MaraeMaps](https://github.com/MaraeMaps/MaraeMaps): Team project for visualising Marae locations around NZ.
